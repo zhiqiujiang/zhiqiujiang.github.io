@@ -1,3 +1,4 @@
-# zhiqiujiang.github.io
-https://zhiqiujiang.github.io/
-This is Zhiqiu Jiang home page.
+# Hello!
+https://zhiqiujiang.com/
+
+This is my home page, which is designed by the minimalism. 
