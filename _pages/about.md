@@ -17,7 +17,7 @@ I am a postdoc researcher at [CISPA Helmholtz Center for Information Security](h
 
 News
 ======
-* 03-2023: Our paper was accepted for the publication in the Journal of Transport Policy!
+* 03-2023: Our paper was accepted for publication in the Journal of Transport Policy!
 * 11-2022: Our paper was accepted for the proceedings of 2023 ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW)!
 * 04-2022: Our paper was accepted for publication in the Journal of Public Transportation!
 * 07-2021: I defended my PhD dissertation at University of Virginia!
