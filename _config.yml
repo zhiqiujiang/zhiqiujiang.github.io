@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhiqiu Jiang"
   avatar           : "zhiqiu_square_2.jpg"
-  bio              : "Email: zhiqiujiang [at] gmail (dot) com"
+  bio              : "zhiqiujiang [at] gmail (dot) com"
   location         : "Germany"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhiqiu-jiang-502031a8"
+  linkedin         : #"zhiqiu-jiang-502031a8"
   orcid            : "https://orcid.org/0000-0002-7625-7799"
   pinterest        :
   soundcloud       :
