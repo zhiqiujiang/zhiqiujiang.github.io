@@ -17,7 +17,7 @@ I am a postdoc researcher at [CISPA Helmholtz Center for Information Security](h
 
 News
 ======
-* 04-2023: Our [CommunityBots paper](https://dl.acm.org/doi/10.1145/3579469){:target="_blank"} was published online in 2023 ACM SIGCHI CSCW.
+* 04-2023: Our [CommunityBots paper](https://dl.acm.org/doi/10.1145/3579469){:target="_blank"} was published online in 2023 ACM SIGCHI CSCW. A [Kudos showcase](https://www.growkudos.com/publications/10.1145%25252F3579469/reader){:target="_blank"} is also available.
 * 03-2023: Our [ZEV paper](https://doi.org/10.1016/j.tranpol.2023.03.002){:target="_blank"} examining consumers’ preferences and willingness to pay for zero-emission vehicle was accepted for publication in the Journal of Transport Policy!
 * 11-2022: Our paper about designing, developing, and evaluating a multi-agent chatbot platform for public input elicitation was accepted for the proceedings of 2023 ACM SIGCHI CSCW!
 * 04-2022: Our [Driverless shuttles paper](https://doi.org/10.1016/j.jpubtr.2022.100018){:target="_blank"} was accepted for publication in the Journal of Public Transportation!
