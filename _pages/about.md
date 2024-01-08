@@ -13,7 +13,9 @@ redirect_from:
 Hi! I am Zhiqiu (Zoe)!
 If you want to call me Zhiqiu, the pronunciation is like <a href="https://www.howtopronounce.com/jucho" target="_blank"><span title="Pronounce" style="font-size:15px; text-decoration: none;">&#128266;</span></a>.
 
-I am a postdoc researcher at [CISPA Helmholtz Center for Information Security](https://cispa.de/){:target="_blank"}. My research interests comprise the topics of **conversational AI**, **responsible data science**, and **trustworthy machine learning**. I want to better understand AI in order to have more responsible, explainable, and robust applications and implications for society. I worked on projects about conversational AI for social good, human-computer interaction, big data and transportation analytics, natural language processing, and smart cities.
+I am currently a postdoc researcher at [CISPA Helmholtz Center for Information Security](https://cispa.de/){:target="_blank"}, working on the safety concerns related to large language models (LLMs), with a focus on the secure and ethical development of conversational AI. I am an enthusiast of HCI/AI & Society. My research interests comprise the topics of **conversational AI**, **responsible data science**, and **human-computer interaction**. 
+
+I want to better understand AI in order to have more responsible, explainable, and robust applications and implications for society. Two important aspects that I want to further investigate: One is about how to develop responsible AI, ensuring that the technology remains ethical, explainable, and aligned with human values; Another is about how to leverage existing AI tools, e.g., LLMs, to enhance our lives, including helping with decision-making, providing solutions for real-world challenges, and creating practical applications. I bring a wealth of practical experience to the table, having successfully contributed to diverse projects spanning conversational AI for social good, human-computer interaction, big data and transportation analytics, natural language processing, and smart cities.
 
 News
 ======
