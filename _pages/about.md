@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-Hi! I am Zhiqiu (Zoe)!
+Hi! I am Zoe (Zhiqiu)!
 If you want to call me Zhiqiu, the pronunciation is like <a href="https://www.howtopronounce.com/jucho" target="_blank"><span title="Pronounce" style="font-size:15px; text-decoration: none;">&#128266;</span></a>.
 
 I am currently a postdoc researcher at [CISPA Helmholtz Center for Information Security](https://cispa.de/){:target="_blank"}, working on the safety concerns related to large language models (LLMs), with a focus on the secure and ethical development of conversational AI. I am an enthusiast of HCI/AI & Society. My research interests comprise the topics of **conversational AI**, **responsible data science**, and **human-computer interaction**. 
