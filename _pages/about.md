@@ -14,6 +14,10 @@ Education
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> PhD in The Constructed Environment
 <br>
 Dissertation: Examining Travel To Non-Work Destinations: Integrating Geosocial Media And Smartphone-Based GPS Traces
+<br>
+My dissertation focused on mining large-scale data, including geosocial media such as Yelp reviews and GPS traces, to explore human perception of the transportation environment and travel behavior within smart city frameworks. By leveraging big data as a repository for public opinions and behavioral patterns, I extracted useful knowledge to reveal urban dynamics through a data-driven approach.
+This research not only demonstrates the potential of big data in analyzing human perception and behavior but also sheds light on the early stages of the evolving human-technology relationship. People increasingly engage with technology to share opinions, preferences, and location-based data, highlighting a symbiotic relationship where human actions are both influenced by and contribute to technological systems. 
+In the context of smart transportation, these data open new opportunities for understanding both social and behavioral trends at scale.
 <br><br>
 **Georgia Institute of Technology, USA**
 <br>
