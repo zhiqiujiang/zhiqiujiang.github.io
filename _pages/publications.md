@@ -60,6 +60,18 @@ _Journal of Public Transportation. 2022_
 <br>
 <br>
 <br>
+0. [**Mapping Instability: The Effects of the Pandemic on the Civic Life of a Small Town**](/pdf/mapping.pdf){:target="_blank"}
+<br>
+Erica Dewitt, <b>Zhiqiu Jiang</b>, Mashrur Rashik, Kunjal Panchal, Mahmood Jasim, Fey Thurber, Cami Quinteros, Ali Sarvghad, Narges Mahyar, Pari Riahi
+<br>
+_Environments by Design: Health, Wellbeing, and Place Conference, AMPS proceeding Series 26.2, ISSN 2398-9467, pp. 170-181, 2022._
+<br>
+[[PDF]](/pdf/mapping.pdf){:target="_blank"}
+![mapping](/images/mapping_image_combine_crop.png)
+<small>*Probing The Parameters Of Civic Life And Mobility Through A Conversational Platform*</small>
+<br>
+<br>
+<br>
 0. [**Public Perceptions and Attitudes Towards Driverless Technologies in the United States: A Text Mining of Twitter Data**](https://doi.org/10.1007/978-3-030-76059-5_7){:target="_blank"}
 <br>
 **Zhiqiu Jiang**, Max Zheng
