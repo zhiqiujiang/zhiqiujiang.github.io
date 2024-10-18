@@ -13,7 +13,7 @@ permalink: /publications/
 This project examines the delicate balance between trust and vulnerability in human interactions with AI. Philosophical perspectives such as posthumanism or phenomenology serve as a means for engaging with these broader questions concerning privacy, trust, and what it means to people in the digital age.
 0. **Responsible Conversational AI: Creating a Framework of Trust in Conversational AI**
 <br>
-This project aims to develop a framework for building trust in conversational AI systems. By exploring how users form trust in AI-driven conversations, this study hope to provide insights into designing more responsible and trustworthy AI interactions that prioritize user needs.
+This project aims to develop a framework for building trust in conversational AI systems. By exploring how users form trust in AI-driven conversations, this study hopes to provide insights into designing more responsible and trustworthy AI interactions that prioritize user needs.
 {: reversed="reversed"}
 <br>
 <br>
