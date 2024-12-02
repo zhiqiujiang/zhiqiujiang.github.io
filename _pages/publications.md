@@ -21,7 +21,7 @@ This project aims to develop a framework for building trust in conversational AI
 <br>
 This project examines the nuanced balance between trust and vulnerability in human interactions with AI. Philosophical perspectives such as posthumanism or phenomenology serve as a means for engaging with these broader questions concerning privacy, trust, and what it means to people in the digital age.
 <br>
-_Full Presentation at the NeurIPS Creative AI Track (31% acceptance rate). 2024._
+_Full Presentation at the NeurIPS Creative AI Track. 2024. (31% acceptance rate)._
 <br>
 ![self_disclosure](/images/self_disclosure_teaser.jpg)
 <small>*Self-Disclosure to AI*</small>
@@ -32,7 +32,7 @@ _Full Presentation at the NeurIPS Creative AI Track (31% acceptance rate). 2024.
 <br>
 This project is an interactive art installation exploring the complexities of gender neutrality in artificial intelligence. The installation combines a conceptual video with an interactive auditory experiment, inviting participants to reflect on how AI-generated voices address gender ambiguity.
 <br>
-_Artwork Presentation at the NeurIPS Creative AI Track (45% acceptance rate). 2024._
+_Artwork Presentation at the NeurIPS Creative AI Track. 2024. (45% acceptance rate)._
 <br>
 ![ambiguity](/images/ambiguity_teaser.jpg)
 <small>*Ambiguity in AI: The Paradox of Gender Neutrality*</small>
@@ -43,7 +43,7 @@ _Artwork Presentation at the NeurIPS Creative AI Track (45% acceptance rate). 20
 <br>
 **Zhiqiu Jiang**\*, Mashrur Rashik*, Kunjal Panchal, Mahmood Jasim, Ali Sarvghad, Pari Riahi, Erica DeWitt, Fey Thurber, Narges Mahyar
 <br>
-_In Proceedings of ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW) 2023._
+_In Proceedings of ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW). 2023. (26% acceptance rate)._
 <br>
 [[DOI]](https://dl.acm.org/doi/10.1145/3579469){:target="_blank"}
 [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3579469){:target="_blank"}
