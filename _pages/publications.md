@@ -21,7 +21,7 @@ This project aims to develop a framework for building trust in conversational AI
 <br>
 This project examines the nuanced balance between trust and vulnerability in human interactions with AI. Philosophical perspectives such as posthumanism or phenomenology serve as a means for engaging with these broader questions concerning privacy, trust, and what it means to people in the digital age.
 <br>
-_Full Presentation at the NeurIPS Creative AI Track (31% acceptance Rate). 2024._
+_Full Presentation at the NeurIPS Creative AI Track (31% acceptance rate). 2024._
 <br>
 ![self_disclosure](/images/self_disclosure_teaser.jpg)
 <small>*Self-Disclosure to AI*</small>
@@ -32,7 +32,7 @@ _Full Presentation at the NeurIPS Creative AI Track (31% acceptance Rate). 2024.
 <br>
 This project is an interactive art installation exploring the complexities of gender neutrality in artificial intelligence. The installation combines a conceptual video with an interactive auditory experiment, inviting participants to reflect on how AI-generated voices address gender ambiguity.
 <br>
-_Artwork Presentation at the NeurIPS Creative AI Track (45% acceptance Rate). 2024._
+_Artwork Presentation at the NeurIPS Creative AI Track (45% acceptance rate). 2024._
 <br>
 ![ambiguity](/images/ambiguity_teaser.jpg)
 <small>*Ambiguity in AI: The Paradox of Gender Neutrality*</small>
