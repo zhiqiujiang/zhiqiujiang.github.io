@@ -6,17 +6,12 @@ permalink: /publications/
 (* indicate equal contribution)
 <br>
 <br>
-**Working Paper**
+
+0. <em>Work in Progress: Responsible Conversational AI: Creating a Framework of Trust in Conversational AI</em>
 <br>
-0. **Responsible Conversational AI: Creating a Framework of Trust in Conversational AI**
+This project examines the factors that influence people's willingness to trust and engage with conversational AI. By exploring how trust is formed in AI-driven interactions, it aims to provide feasible design guidance that prioritizes user needs and creates positive human-AI relationships.
 <br>
-This project aims to develop a framework for building trust in conversational AI systems. By exploring how users form trust in AI-driven conversations, this study hopes to provide insights into designing more responsible and trustworthy AI interactions that prioritize user needs.
-{: reversed="reversed"}
-<br>
-<br>
-**Publications**
-<br>
-<br>
+
 0. **Self-Disclosure to AI: The Paradox of Trust and Vulnerability in Human-Machine Interactions**
 <br>
 This project examines the nuanced balance between trust and vulnerability in human interactions with AI. Philosophical perspectives such as posthumanism or phenomenology serve as a means for engaging with these broader questions concerning privacy, trust, and what it means to people in the digital age.
@@ -28,6 +23,7 @@ _Full Presentation at the NeurIPS Creative AI Track. 2024. (31% acceptance rate)
 <br>
 <br>
 <br>
+
 0. **Ambiguity in AI: The Paradox of Gender Neutrality**
 <br>
 This project is an interactive art installation exploring the complexities of gender neutrality in artificial intelligence. The installation combines a conceptual video with an interactive auditory experiment, inviting participants to reflect on how AI-generated voices address gender ambiguity.
@@ -39,6 +35,7 @@ _Artwork Presentation at the NeurIPS Creative AI Track. 2024. (45% acceptance ra
 <br>
 <br>
 <br>
+
 0. [**CommunityBots: Creating and Evaluating A Multi-Agent Chatbot Platform for Public Input Elicitation**](https://dl.acm.org/doi/10.1145/3579469){:target="_blank"}
 <br>
 **Zhiqiu Jiang**\*, Mashrur Rashik*, Kunjal Panchal, Mahmood Jasim, Ali Sarvghad, Pari Riahi, Erica DeWitt, Fey Thurber, Narges Mahyar
@@ -52,6 +49,7 @@ _In Proceedings of ACM SIGCHI Conference on Computer-Supported Cooperative Work 
 <br>
 <br>
 <br>
+
 0. [**Preferences for Zero-Emission Vehicle Attributes: Comparing Early Adopters with Mainstream Consumers in California**](https://doi.org/10.1016/j.tranpol.2023.03.002){:target="_blank"}
 <br>
 Wenjian Jia, **Zhiqiu Jiang**, Qian Wang, Bin Xu, Mei Xiao
@@ -78,6 +76,7 @@ _Journal of Public Transportation. 2022_
 <br>
 <br>
 <br>
+
 0. [**Mapping Instability: The Effects of the Pandemic on the Civic Life of a Small Town**](/pdf/mapping.pdf){:target="_blank"}
 <br>
 Erica Dewitt, <b>Zhiqiu Jiang</b>, Mashrur Rashik, Kunjal Panchal, Mahmood Jasim, Fey Thurber, Cami Quinteros, Ali Sarvghad, Narges Mahyar, Pari Riahi
@@ -90,6 +89,7 @@ _Environments by Design: Health, Wellbeing, and Place Conference, AMPS proceedin
 <br>
 <br>
 <br>
+
 0. [**Public Perceptions and Attitudes Towards Driverless Technologies in the United States: A Text Mining of Twitter Data**](https://doi.org/10.1007/978-3-030-76059-5_7){:target="_blank"}
 <br>
 **Zhiqiu Jiang**, Max Zheng
@@ -103,6 +103,7 @@ _In Proceedings of the CUPUM (Computational Urban Planning and Urban Management)
 <br>
 <br>
 <br>
+
 0. [**Analyzing Parking Sentiment and its Relationship to Parking Supply and the Built Environment using Online Reviews**](https://doi.org/10.1007/s42421-021-00036-1){:target="_blank"}
 <br>
 **Zhiqiu Jiang**, Andrew Mondschein
@@ -116,6 +117,7 @@ _Journal of Big Data Analytics in Transportation. 2021._
 <br>
 <br>
 <br>
+
 0. [**Synthesizing Neighborhood Preferences for Automated Vehicles**](https://doi.org/10.1016/j.trc.2020.102774){:target="_blank"}
 <br>
 Wenwen Zhang, Kaidi Wang, Sicheng Wang, <b>Zhiqiu Jiang</b>, Andrew Mondschein, Robert Noland
@@ -129,6 +131,7 @@ _Journal of Transportation Research Part C: Emerging Technologies. 2020._
 <br>
 <br>
 <br>
+
 0. [**Spatial Distributions of Attitudes and Preferences towards Autonomous Vehicles**](https://doi.org/10.32866/001c.12653){:target="_blank"}
 <br>
 <b>Zhiqiu Jiang</b>, Sicheng Wang, Andrew Mondschein, Robert Noland
@@ -142,6 +145,7 @@ _Journal of Transport Findings. 2020._
 <br>
 <br>
 <br>
+
 0. [**Attitudes Towards Privately-Owned and Shared Autonomous Vehicles**](https://doi.org/10.1016/j.trf.2020.05.014){:target="_blank"}
 <br>
 Sicheng Wang, <b>Zhiqiu Jiang</b>, Robert Noland, Andrew Mondschein
@@ -155,6 +159,7 @@ _Journal of Transportation Research Part F: Traffic Psychology and Behaviour. 20
 <br>
 <br>
 <br>
+
 0. [**Using Social Media to Evaluate Associations between Parking Supply and Parking Sentiment**](https://doi.org/10.1016/j.trip.2019.100085){:target="_blank"}
 <br>
 Andrew Mondschein, David King, Christopher Hoehne, <b>Zhiqiu Jiang</b>, Mikhail Chester
@@ -169,6 +174,7 @@ _Journal of Transportation Research Interdisciplinary Perspectives. 2020._
 <br>
 <br>
 <br>
+
 0. [**Examining the Effects of Proximity to Rail Transit on Travel to Non-Work Destinations: Evidence from Yelp Data for Cities in North America and Europe**](https://doi.org/10.5198/jtlu.2019.1409){:target="_blank"}
 <br>
 <b>Zhiqiu Jiang</b>, Andrew Mondschein
@@ -182,6 +188,7 @@ _Journal of Land Use and Transport. 2019._
 <br>
 <br>
 <br>
+
 0. [**Planning for Walking and Cycling in An Autonomous-Vehicle Future**](https://doi.org/10.1016/j.trip.2019.100012){:target="_blank"}
 <br>
 Bryab Botello, Ralph Buehler, Steve Hankey, Andrew Mondschein, <b>Zhiqiu Jiang</b>
@@ -208,6 +215,7 @@ _Journal of the Transportation Research Board. 2019._
 <br>
 <br>
 <br>
+
 0. [**A Psychological Approach to 'Public Perception' of Land-Use Planning: A Case Study of Jiangsu Province, China**](https://doi.org/10.3390/su10093056){:target="_blank"}
 <br>
 Zhongqiong Qu, Yiming Lu, <b>Zhiqiu Jiang</b>, Ellen Bassett, and Tao Tan
