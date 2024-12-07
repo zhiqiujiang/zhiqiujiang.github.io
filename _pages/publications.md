@@ -18,8 +18,8 @@ This project examines the nuanced balance between trust and vulnerability in hum
 <br>
 _Full Presentation at the NeurIPS Creative AI Track. 2024. (31% acceptance rate)._
 <br>
-![self_disclosure](/images/self_disclosure_teaser.jpg)
-<small>*Self-Disclosure to AI*</small>
+![self_disclosure](/images/self_disclosure_teaser_v2.png)
+<small>*Self-Disclosure to AI. "What if a robot gently asked for your thoughts or secrets?"*</small>
 <br>
 <br>
 <br>
