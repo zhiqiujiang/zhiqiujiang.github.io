@@ -12,11 +12,20 @@ permalink: /publications/
 This project examines the factors that influence people's willingness to trust and engage with conversational AI. By exploring how trust is formed in AI-driven interactions, it aims to provide feasible design guidance that prioritizes user needs and creates positive human-AI relationships.
 <br>
 
+0. **What If Designing a Gender-Neutral Voice For?**
+<br>
+This project explores the intersection of voice design and gender identity in the context of human-robot interaction, indicating the complexities and challenges of creating a voice that is perceived as gender-neutral.
+It examines how voice attributes influence user perception, trust, and social dynamics in robotics. 
+By addressing the paradox of gender neutrality in AI, the work seeks to understand how voice design can shape inclusive, equitable interactions with robots.
+<br>
+_Presentation at the IEEE International Conference on Robotics and Automation (ICRA). 2025._
+<br>
+
 0. **Self-Disclosure to AI: The Paradox of Trust and Vulnerability in Human-Machine Interactions**
 <br>
 This project examines the nuanced balance between trust and vulnerability in human interactions with AI. Philosophical perspectives such as posthumanism or phenomenology serve as a means for engaging with these broader questions concerning privacy, trust, and what it means to people in the digital age.
 <br>
-_Full Presentation at the NeurIPS Creative AI Track. 2024. (31% acceptance rate)._
+_Full Presentation at the NeurIPS Creative AI. 2024. (31% acceptance rate)._
 <br>
 ![self_disclosure](/images/self_disclosure_teaser_v2.png)
 <small>*Self-Disclosure to AI. "What if a robot gently asked for your thoughts or secrets?"*</small>
@@ -28,7 +37,7 @@ _Full Presentation at the NeurIPS Creative AI Track. 2024. (31% acceptance rate)
 <br>
 This project is an interactive art installation exploring the complexities of gender neutrality in artificial intelligence. The installation combines a conceptual video with an interactive auditory experiment, inviting participants to reflect on how AI-generated voices address gender ambiguity.
 <br>
-_Artwork Presentation at the NeurIPS Creative AI Track. 2024. (45% acceptance rate)._
+_Artwork Presentation at the NeurIPS Creative AI. 2024. (45% acceptance rate)._
 <br>
 ![ambiguity](/images/ambiguity_teaser.jpg)
 <small>*Ambiguity in AI: The Paradox of Gender Neutrality*</small>
