@@ -18,7 +18,7 @@ This project explores the intersection of voice design and gender identity in th
 It examines how voice attributes influence user perception, trust, and social dynamics in robotics. 
 By addressing the paradox of gender neutrality in AI, the work seeks to understand how voice design can shape inclusive, equitable interactions with robots.
 <br>
-_Presentation at the IEEE International Conference on Robotics and Automation (ICRA). 2025._
+_Presentation at the IEEE International Conference on Robotics and Automation (ICRA) Arts in Robotics. 2025._
 <br>
 
 0. **Self-Disclosure to AI: The Paradox of Trust and Vulnerability in Human-Machine Interactions**
