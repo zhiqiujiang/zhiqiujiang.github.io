@@ -4,7 +4,14 @@ layout: single
 permalink: /about/
 ---
 
-I am a postdoc researcher at [CISPA Helmholtz Center for Information Security](https://cispa.de/){:target="_blank"}. Prior to joining CISPA, I was a postdoc fellow in [Department of Computer Science](https://www.cics.umass.edu/){:target="_blank"} at [UMass Amherst](https://www.umass.edu/){:target="_blank"}. I was awarded the [Postdoctoral Fellowship in Data Science](https://ds.cs.umass.edu/research/cds-postdoctoral-fellowship-program){:target="_blank"} and affiliated with [Center for Data Science](https://ds.cs.umass.edu/){:target="_blank"} and [HCI-VIS Lab](https://groups.cs.umass.edu/hci-vis/){:target="_blank"}. Previously, I was selected as a [Presidential Fellow](https://datascience.virginia.edu/presidential-fellows){:target="_blank"} at [School of Data Science](https://datascience.virginia.edu/){:target="_blank"}, and a [Praxis Fellow](https://praxis.scholarslab.org/about/){:target="_blank"} of [Digital Humanities](https://scholarslab.lib.virginia.edu/digital-humanities-fellows/){:target="_blank"} at the University of Virginia.
+I am a human-centric AI researcher passionate about understanding the evolving relationship between humans and technology. My work sits at the intersection of Human-Computer Interaction and Data Science, with a focus on responsible AI, user-centered design, and the dynamics of human-AI interaction.
+
+I was a postdoc fellow in [Department of Computer Science](https://www.cics.umass.edu/){:target="_blank"} at [UMass Amherst](https://www.umass.edu/){:target="_blank"}, where I was awarded the [Postdoctoral Fellowship in Data Science](https://ds.cs.umass.edu/research/cds-postdoctoral-fellowship-program){:target="_blank"}. During my time there, I was affiliated with [Center for Data Science](https://ds.cs.umass.edu/){:target="_blank"} and [HCI-VIS Lab](https://groups.cs.umass.edu/hci-vis/){:target="_blank"}.
+Afterwards, I continued my research at human-AI interaction at the CISPA Helmholtz Center for Information Security, where I explored themes of AI ethics, trust, vulnerability, and ambiguity in human-AI interactions.
+Examples of my projects included "Self-Disclosure to AI: The Paradox of Trust and Vulnerability in Human-Machine Interactions" and "Ambiguity in AI: The Paradox of Gender Neutrality."
+
+I earned my Ph.D. from the University of Virginia, where I was honored as a <a href="https://datascience.virginia.edu/presidential-fellows" target="_blank">Presidential Fellow</a> at the <a href="https://datascience.virginia.edu/" target="_blank">School of Data Science</a> and a <a href="https://praxis.scholarslab.org/about/" target="_blank">Praxis Fellow</a> with the <a href="https://scholarslab.lib.virginia.edu/digital-humanities-fellows/" target="_blank">Scholars' Lab in Digital Humanities</a>.
+
 
 Education
 ======

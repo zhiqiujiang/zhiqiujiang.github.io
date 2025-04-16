@@ -6,21 +6,24 @@ author_profile: true
 # exclude_from_search: true
 ---
 
-Welcome! I'm Zoe, a researcher with strong interest in Human-Computer Interaction, Technology Acceptance, and Data Science/Computational Social Science.
-If you want to call me Zhiqiu, the pronunciation is like <a href="https://www.howtopronounce.com/jucho" target="_blank"><span title="Pronounce" style="font-size:15px; text-decoration: none;">&#128266;</span></a>.
-<br>
-<br>
-I am a postdoc researcher at <a href="https://cispa.de/" target="_blank">CISPA</a>. My work focuses on connecting people with transformative technologies like AI, exploring the evolving relationship between humans and intelligent systems. I believe that this dynamic interaction not only demands innovative solutions to enhance human lives but also calls for deep reflection on society and ourselves. 
+Welcome! I'm Zoe, a human-centric AI researcher passionate for the evolving relationship between humans and technology.
+My work explores how people perceive, interact with, and shape AI-powered systems, bridging human-computer interaction and data-informed decision-making.
+If you want to call me Zhiqiu, the pronunciation is like <a href="https://www.howtopronounce.com/jucho" target="_blank"><span title="Pronounce" style="font-size:15px; text-decoration: none;">🔊</span></a>.
+<br />
+<br />
+My work focuses on connecting people with transformative technologies like AI, exploring the evolving relationship between humans and intelligent systems. I believe that this dynamic interaction not only demands innovative solutions to enhance human lives but also calls for deep reflection on society and ourselves.
 
 Two important aspects that I want to further investigate in my research: One is about developing ethical and human-centric AI; Another is about leveraging AI tools, such as large language models, to enhance decision-making and address real-world challenges. 
 My goal is to understand how people interact with technology — exploring their perceptions, preferences, and behaviors — while creating systems that respond to these needs and expectations, and having broader impact across various sectors and stakeholders.
-<br>
-<br>
+<br />
+<br />
 I am passionate about exploring the interdisciplinary connections between technology, people, and society. My work spans a variety of projects, including conversational AI for social good, human-computer interaction, technology acceptance and user experience, big data analytics for transportation analytics, data-driven travel behavior analysis, and natural language processing for smart city management.
+
 
 News
 ======
-* 10-2024: Two works were accepted for presentation at the 2024 NeurIPS Creative AI Track.
+* 02-2025: My work "What If Designing a Gender-Neutral Voice For X" has been accepted for presentation at the Arts in Robotics session of the 2025 IEEE International Conference on Robotics and Automation (ICRA).
+* 10-2024: Two of my works were accepted for presentation at the 2024 NeurIPS Creative AI. See you in Vancouver, Canada!
 * 09-2024: I will be giving a talk at the University of Virginia about "AI and Human Perception: A Journey from Data-Driven Research to User-Centered Design."
 * 04-2024: I will participate in Helmholtz workshop "Career and Leadership" from April 23-25 in Schloss Buchenau, Germany. 
 * 04-2023: Our [CommunityBots paper](https://dl.acm.org/doi/10.1145/3579469){:target="_blank"} was published online in 2023 ACM SIGCHI CSCW. A [Kudos showcase](https://www.growkudos.com/publications/10.1145%25252F3579469/reader){:target="_blank"} is also available.
